@@ -1,14 +1,7 @@
-# palaver-strings-capstone
-NEU Capstone Project Repository, for the Palaver Strings group. 
+# Palaver Student Dashboard
+The Palaver Strings Student Hub is a comprehensive, interactive dashboard designed to enhance the educational experience at Palaver Strings, a non-profit focused on string instrument education. This project was developed to simplify administrative tasks such as lesson scheduling and managing learning plans, providing an intuitive platform for both educators and students.
 
 ## Group Members: 
 - Jim Bebarski
 - Davey Getchell
 - Conor Weiss
-
-Google Drive Folder (Contains All Project Related Documents)   
-https://drive.google.com/drive/folders/16VqerplDzZYMNN5ShL6uLCu42cd_tR1a?usp=sharing
-
-
-
-
